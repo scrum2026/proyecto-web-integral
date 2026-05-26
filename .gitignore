@@ -1,0 +1,21 @@
+# Dependencias (cuando agregues un gestor de paquetes)
+node_modules/
+
+# Entornos y secretos
+.env
+.env.local
+*.pem
+
+# Editor y OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Logs y temporales
+*.log
+npm-debug.log*
+dist/
+build/
+.cache/
