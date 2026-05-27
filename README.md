@@ -2,7 +2,7 @@
 
 Estructura inicial para un proyecto web (HTML, CSS y JavaScript).
 
-## Estructura
+## Estructura del proyecto
 
 | Carpeta / archivo | Descripción |
 |-------------------|-------------|
