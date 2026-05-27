@@ -16,3 +16,5 @@ Estructura inicial para un proyecto web (HTML, CSS y JavaScript).
 ## Cómo abrir el proyecto
 
 Abre `index.html` en el navegador o sirve la carpeta raíz con un servidor local (por ejemplo: `npx serve .`).
+
+## Cambio para prueba 
